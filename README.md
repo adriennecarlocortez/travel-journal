@@ -1,11 +1,11 @@
-# About Travel Journal
+# About [Travel Journal](https://adrienne-travel-journal.netlify.app/)
 
-This is my fourth project using React. It's main focus is to use [props](https://legacy.reactjs.org/docs/components-and-props.html) to fetch the data from the data file.
+This is my fourth project using React. It's main focus is to use [props](https://legacy.reactjs.org/docs/components-and-props.html) to fetch the data from the data file. 
 
 ## Quick Start
 
 ```
-cd airbnb-clone
+cd travel-journal
 npm install
 npm run dev
 ```
