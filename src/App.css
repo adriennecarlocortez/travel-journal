@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    font-family: Inter, san-serif;
+}
+
+.nav {
+    background-color: #F55A5A;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.nav--icon {
+    /* color: #fff; */
+    margin-right: 7px;
+    height: 24px;
+    align-self: center;
+}
+
+.nav--title {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0px;
+}
+
+.card {
+    display: flex;
+    margin: 20px auto;
+    width: 50%;
+    position: relative;
+    flex-direction: row;
+    padding-bottom: 20px;
+}
+
+.card:hover {
+    transform: scale(0.99);
+    border-bottom: 2px solid #F55A5A;
+}
+
+.card--img {
+    height: 300px;
+    width: 225px;
+    object-fit: cover;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.card--info {
+    align-self: center;
+}
+
+.card--pin {
+    margin-right: 10px;
+    height: 18px;
+}
+
+.card--location {
+    font-size: 20px;
+    font-weight: 400;
+    margin-right: 10px;
+    letter-spacing: 1.7px;
+}
+
+.card--maps {
+    color: #918E9B;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.card--title {
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.card--date {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.card--desc {
+    font-size: 20px;
+    line-height: 150%;
+    margin: 0;
+    word-break: break-word;
+}
+
+.copy-right-sec{
+	padding: 1.8rem;
+    color: black;
+    text-align: center;
+}
