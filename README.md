@@ -10,7 +10,7 @@ This is my fourth project using React. It's main focus is to use [props](https:/
 - Build a Travel Journal using React according to the Figma file
 - Reusable Components
 - React Props
-- array .map()
+- Mapping data - array .map()
 - Conditional Rendering
 - Styling with Classes
 
